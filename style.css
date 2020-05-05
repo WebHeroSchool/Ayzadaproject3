@@ -24,6 +24,10 @@ font-style: oblique;
 margin-left: 250px;
 }
 
+.main__word {
+color: #FF8C00;
+font-weight: bold;
+}
 .main__description {
 text-indent: each-line;
 text-align: left;
