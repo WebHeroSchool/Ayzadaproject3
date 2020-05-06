@@ -1,0 +1,48 @@
+.header__img {
+width:300;
+height:200;
+float: left;
+margin: 5px 0 5px 5px;
+box-shadow: 0 0 5px;
+}
+.header__title {
+color: #2F4F4F;
+text-shadow: -1px 0 1px #000000, 0 -1px 1px #000000, 0 1px 1px white;
+text-align: center;
+font-weight: bold;
+}
+
+.header__word {
+color: #FF8C00;
+font-weight: bold;
+}
+
+.main__title {
+text-indent: each-line;
+text-align: left;
+line-break: normal;
+font-style: oblique;
+margin-left: 250px;
+}
+
+.main__word {
+color: #FF8C00;
+font-weight: bold;
+}
+.main__description {
+text-indent: each-line;
+text-align: left;
+line-break: normal;
+font-style: oblique;
+font-family: generic-family, cursive;
+color: #2F4F4F;
+}
+
+.main__list_name{
+color: #FF8C00;
+font-size: 200%;
+font-family: serif;
+font-weight: bold;
+position: relative;
+top: 5px; 
+}
